@@ -18,4 +18,4 @@
 
 ### 전체 소스코드
 
-* 전체 소스코드는 Google Colab에서 실행 가능하며 [이 경로](/Celebrity%20Classifier%20Service%20using%20Crawling%20and%20Transfer%20Learning.ipynb)에서 확인 가능합니다.
+* 전체 소스코드는 Google Colab에서 실행 가능하며 [소 경로](/Celebrity%20Classifier%20Service%20using%20Crawling%20and%20Transfer%20Learning.ipynb)에서 확인 가능합니다.
